@@ -1,0 +1,10 @@
+{
+  "description": "Offers a distraction-free e-reader interface with customizable themes and easy navigation for tablet users seeking a minimalist reading experience.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
